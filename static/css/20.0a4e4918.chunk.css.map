@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.css"],"names":[],"mappings":"AAAA,KACI,SAAU,CACV,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,8BACJ,CAEA,MACI,SACJ","file":"20.0a4e4918.chunk.css","sourcesContent":[".App{\n    width: 80%;\n    position: absolute;\n    top: 40%;\n    left: 50%;\n    transform: translate(-50%, -40%);\n}\n\n.logo {\n    width: 60%;\n}\n"]}

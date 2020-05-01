@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[29],{28:function(e,t,n){"use strict";n.r(t);var o=n(3),a=n(5);t.default=function(){return(new o.default).postData("/authentication/logout/",{}).then((function(e){if(console.log(e),"/"!==window.location.href){var t=Date.now(),n=new Date(t-3600);n=n.toUTCString();var o=new a.default;o.setCookie("username",e.username,n,"/"),o.setCookie("activeId",e.activeId,n,"/"),window.sessionStorage.clear(),window.localStorage.clear(),window.location.href="/"}})),null}}}]);
+//# sourceMappingURL=29.9ef8ce47.chunk.js.map
