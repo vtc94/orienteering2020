@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "844a9097a0517d98de31b78ff07978fb",
+    "revision": "934080e7f5c2a24ab2136c43ffeeb834",
     "url": "/orienteering2020/index.html"
   },
   {
@@ -184,7 +184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/css/9.a089da3f.chunk.css"
   },
   {
-    "revision": "2c43e14031ec4544cdfe",
+    "revision": "7e724a564b04af033c2b",
     "url": "/orienteering2020/static/css/main.6fd5aaf3.chunk.css"
   },
   {
@@ -524,8 +524,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/js/9.7585e850.chunk.js"
   },
   {
-    "revision": "2c43e14031ec4544cdfe",
-    "url": "/orienteering2020/static/js/main.2c59d49b.chunk.js"
+    "revision": "7e724a564b04af033c2b",
+    "url": "/orienteering2020/static/js/main.ce5e6097.chunk.js"
   },
   {
     "revision": "f374b76f0fb87538176c",
