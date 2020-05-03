@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "934080e7f5c2a24ab2136c43ffeeb834",
+    "revision": "0249000aba1e285d76f8c6efdd511afc",
     "url": "/orienteering2020/index.html"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/css/19.4200ca5b.chunk.css"
   },
   {
-    "revision": "c5a61663bb09af2582f2",
+    "revision": "ff1b21e23ecf76a88c51",
     "url": "/orienteering2020/static/css/20.0a4e4918.chunk.css"
   },
   {
@@ -184,7 +184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/css/9.a089da3f.chunk.css"
   },
   {
-    "revision": "7e724a564b04af033c2b",
+    "revision": "3503bf260b646352176f",
     "url": "/orienteering2020/static/css/main.6fd5aaf3.chunk.css"
   },
   {
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/js/2.ec6dde1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5a61663bb09af2582f2",
-    "url": "/orienteering2020/static/js/20.cbf1ca82.chunk.js"
+    "revision": "ff1b21e23ecf76a88c51",
+    "url": "/orienteering2020/static/js/20.53221885.chunk.js"
   },
   {
     "revision": "ed65ac63f1d965c35f13",
@@ -264,8 +264,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/js/23.56cff053.chunk.js"
   },
   {
-    "revision": "0c7a97f37c8b5bbc2fff",
-    "url": "/orienteering2020/static/js/24.b191cb06.chunk.js"
+    "revision": "fd188ff3df27a7a1fae3",
+    "url": "/orienteering2020/static/js/24.7b7510f9.chunk.js"
   },
   {
     "revision": "00b005fdcc8e0fc8dea6",
@@ -524,12 +524,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orienteering2020/static/js/9.7585e850.chunk.js"
   },
   {
-    "revision": "7e724a564b04af033c2b",
-    "url": "/orienteering2020/static/js/main.ce5e6097.chunk.js"
+    "revision": "3503bf260b646352176f",
+    "url": "/orienteering2020/static/js/main.202397ab.chunk.js"
   },
   {
-    "revision": "f374b76f0fb87538176c",
-    "url": "/orienteering2020/static/js/runtime-main.b0b96128.js"
+    "revision": "9b351c16bb528444f147",
+    "url": "/orienteering2020/static/js/runtime-main.7ff1add3.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
