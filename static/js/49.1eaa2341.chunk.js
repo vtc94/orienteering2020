@@ -1,2 +1,0 @@
-(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[49],{73:function(t,e,c){"use strict";c.r(e);var i=c(1);e.default=function(){Object(i.darkLightMode)("courseInfo"),Object(i.darkLightMode)("input"),Object(i.darkLightMode)("button")}}}]);
-//# sourceMappingURL=49.1eaa2341.chunk.js.map

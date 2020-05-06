@@ -1,2 +1,0 @@
-(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[42],{70:function(e,t,c){"use strict";c.r(t);var a=c(1);function n(){Object(a.eId)("header").className=Object(a.eId)("header").className.replace(" card-title","")+" card-title"}t.default=function(){Object(a.darkLightMode)("header"),n(),document.getElementsByTagName("body")[0].onresize=function(){n()}}}}]);
-//# sourceMappingURL=42.d57b6842.chunk.js.map

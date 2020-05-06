@@ -1,2 +1,0 @@
-(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[58],{79:function(e,t,n){"use strict";n.r(t);var i=n(1);function r(){Object(i.eId)("preview").style.height=window.innerHeight+"px"}t.default=function(){Object(i.darkLightMode)("scanResults"),r();var e=navigator.userAgent||navigator.vendor||window.opera;/android/i.test(e)||window.addEventListener("resize",r)}}}]);
-//# sourceMappingURL=58.25f04af5.chunk.js.map
