@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/orienteering2020/precache-manifest.21130377574748d8774287b03c63b60f.js"
+  "/orienteering2020/precache-manifest.9c763a63feb20048b64b4b8a9751ea1a.js"
 );
 
 self.addEventListener('message', (event) => {
