@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63e52babab70c2d092906d8a0c335d33",
+    "revision": "0de659ce3bd728a5ffa63716fe96d7b9",
     "url": "/orienteering2020/index.html"
   },
   {
